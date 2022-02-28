@@ -1,3 +1,4 @@
 Hello there!
 I am Sharadhi.
-Today is a beautiful day
+Today is a beautiful day.
+I am learning git today
