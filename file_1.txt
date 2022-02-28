@@ -3,3 +3,6 @@ I am Sharadhi.
 Today is a beautiful day.
 I am learning git today.
 Adding one more lines.
+here's another line
+thanks for coming to class
+have a great day! :-)
